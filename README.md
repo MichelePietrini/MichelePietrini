@@ -9,12 +9,12 @@ I'm a passionate developer with a solid background in creating comprehensive sof
 ## Skills 
 | Languages | Framework |  
 |---|---|
-| ![html](https://devicon.dev/#:~:text=https%3A//cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5%2Doriginal.svg) | - | 
+| ![html](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg) | - | 
 | ![css](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![tailwindcss](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg) |
 | ![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg) | ![vue](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg) |
 | ![csharp](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) | ASP.NET Core, .NET MVC !.NET logo|
-| PHP !php| Laravel !Laravel logo |  
-| Dart !dart | Flutter !Flutter logo |
+| ![php](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg)| ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg) |  
+| ![dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg) | ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg) |
 
 
 - **Full Stack Development:**
