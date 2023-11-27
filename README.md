@@ -9,8 +9,8 @@ I'm a passionate developer with a solid background in creating comprehensive sof
 ## Skills 
 | Languages | Framework |  
 |---|---|
-| HTML ![html](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | - | 
-| CSS !css | - |
+| HTML ![html](https://devicon.dev/#:~:text=https%3A//cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5%2Doriginal.svg) | - | 
+| CSS ![css](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | Tailwindcss [](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg) |
 | JavaScript !javascript | Vue !vue |
 | C# ![csharp](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) | ASP.NET Core, .NET MVC !.NET logo|
 | PHP !php| Laravel !Laravel logo |  
