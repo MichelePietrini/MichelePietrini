@@ -6,8 +6,8 @@ Hello! I'm Michele, a freelance full stack and mobile developer. I'm passionate 
 
 I'm a passionate developer with a solid background in creating comprehensive software solutions. My expertise ranges from backend programming languages like 💻 C# .NET to frontend technologies like 🌐 JavaScript and frameworks like 📱 Flutter for mobile development.
 
-## Skills
-
+## Skills 
+![html](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HTML5_logo.svg/1200px-HTML5_logo.svg.png)
 | Languages | Framework |  
 |---|---|
 | HTML ![html](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HTML5_logo.svg/1200px-HTML5_logo.svg.png) | - | 
@@ -26,9 +26,9 @@ I'm a passionate developer with a solid background in creating comprehensive sof
 
 ## Contact
 
-- **LinkedIn:** [Michele on LinkedIn](link to your LinkedIn profile)
-- **Email:** your@email.com
-- **Website/Portfolio:** [Your website/portfolio name](link to your website/portfolio)
+- **LinkedIn:** [[Michele on LinkedIn](https://www.linkedin.com/in/michele-pietrini/)]
+- **Email:** info@pietrinisolution.it
+- **Website/Portfolio:** [[Your website/portfolio name](link to your website/portfolio)](http://pietrinisolutions.it/)
 
 ## Contributions
 
