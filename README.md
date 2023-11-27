@@ -28,7 +28,7 @@ I'm a passionate developer with a solid background in creating comprehensive sof
 
 - **LinkedIn:** [[Michele on LinkedIn](https://www.linkedin.com/in/michele-pietrini/)]
 - **Email:** info@pietrinisolution.it
-- **Website/Portfolio:**[ [[Your website/portfolio name](link to your website/portfolio)](http://pietrinisolutions.it/)](http://pietrinisolutions.it/)
+- **Website/Portfolio:**[ My site ](http://pietrinisolutions.it/)
 
 ## Contributions
 
