@@ -12,7 +12,7 @@ I'm a passionate developer with a solid background in creating comprehensive sof
 | HTML !html | - | 
 | CSS !css | - |
 | JavaScript !javascript | Vue !vue |
-| C# !csharp | ASP.NET Core, .NET MVC !.NET logo|
+| C# ![csharp](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) | ASP.NET Core, .NET MVC !.NET logo|
 | PHP !php| Laravel !Laravel logo |  
 | Dart !dart | Flutter !Flutter logo |
 
@@ -28,7 +28,7 @@ I'm a passionate developer with a solid background in creating comprehensive sof
 
 - **LinkedIn:** [[Michele on LinkedIn](https://www.linkedin.com/in/michele-pietrini/)]
 - **Email:** info@pietrinisolution.it
-- **Website/Portfolio:** [[Your website/portfolio name](link to your website/portfolio)](http://pietrinisolutions.it/)
+- **Website/Portfolio:**[ [[Your website/portfolio name](link to your website/portfolio)](http://pietrinisolutions.it/)](http://pietrinisolutions.it/)
 
 ## Contributions
 
