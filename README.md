@@ -10,7 +10,7 @@ I'm a passionate developer with a solid background in creating comprehensive sof
 ![html](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HTML5_logo.svg/1200px-HTML5_logo.svg.png)
 | Languages | Framework |  
 |---|---|
-| HTML ![html](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HTML5_logo.svg/1200px-HTML5_logo.svg.png) | - | 
+| ![html](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HTML5_logo.svg/1200px-HTML5_logo.svg.png) | - | 
 | CSS  ![css](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CSS3_logo.svg/1200px-CSS3_logo.svg.png) | - |
 | JavaScript ![javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/JavaScript_logo.svg/1200px-JavaScript_logo.svg.png) | Vue ![vue](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Vue.js_logo.svg/1200px-Vue.js_logo.svg.png) |
 | C#  ![csharp](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png) | ASP.NET Core, .NET MVC ![.NET logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/.NET_logo.svg/1200px-.NET_logo.svg.png)|
