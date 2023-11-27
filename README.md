@@ -9,10 +9,10 @@ I'm a passionate developer with a solid background in creating comprehensive sof
 ## Skills 
 | Languages | Framework |  
 |---|---|
-| HTML ![html](https://devicon.dev/#:~:text=https%3A//cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5%2Doriginal.svg) | - | 
-| CSS ![css](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | Tailwindcss [](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg) |
-| JavaScript !javascript | Vue !vue |
-| C# ![csharp](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) | ASP.NET Core, .NET MVC !.NET logo|
+| ![html](https://devicon.dev/#:~:text=https%3A//cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5%2Doriginal.svg) | - | 
+| ![css](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![tailwindcss](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg) |
+| ![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg) | ![vue](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg) |
+| ![csharp](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) | ASP.NET Core, .NET MVC !.NET logo|
 | PHP !php| Laravel !Laravel logo |  
 | Dart !dart | Flutter !Flutter logo |
 
