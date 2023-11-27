@@ -10,12 +10,13 @@ I'm a passionate developer with a solid background in creating comprehensive sof
 
 - **Languages:**
   - 💻 C# .NET
-  - 🌐 JavaScript
+  - !JavaScript JavaScript
   - 🎯 Dart
 
 - **Technologies:**
   - 📱 Flutter
-  - [Include other relevant technologies you're familiar with]
+  - Vue
+  - Laravel
 
 - **Full Stack Development:**
   - Experience in building complete web applications, from backend to frontend.
@@ -23,15 +24,6 @@ I'm a passionate developer with a solid background in creating comprehensive sof
 - **Mobile Development:**
   - Projects using 📱 Flutter for cross-platform app development.
 
-## Key Projects
-
-### [Project Name 1](link to project)
-
-Brief description of the project, its goals, and the technologies used.
-
-### [Project Name 2](link to project)
-
-Brief description of the project, its goals, and the technologies used.
 
 ## Contact
 
